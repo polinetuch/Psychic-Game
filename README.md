@@ -1,6 +1,6 @@
 # Psychic-Game
 
-Visit the app here: file:///C:/Users/uchpo/Documents/CodingBootcamp/Week3/Homework/Psychic-Game/index.html
+Visit the app here: https://polinetuch.github.io/Psychic-Game/
 
 The app randomly picks a letter, and the user has to guess which letter the computer has chosen.
 
